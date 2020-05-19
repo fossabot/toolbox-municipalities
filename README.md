@@ -1,4 +1,5 @@
 [![goodtables.io](https://goodtables.io/badge/github/n0rdlicht/toolbox-municipalities.svg)](https://goodtables.io/github/n0rdlicht/toolbox-municipalities)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fn0rdlicht%2Ftoolbox-municipalities.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fn0rdlicht%2Ftoolbox-municipalities?ref=badge_shield)
 
 # Swiss Municipalities
 
@@ -49,6 +50,9 @@ Then you can update the list by
     data push
 
 ## Copyright and License
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fn0rdlicht%2Ftoolbox-municipalities.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fn0rdlicht%2Ftoolbox-municipalities?ref=badge_large)
 
 ## Author
 
